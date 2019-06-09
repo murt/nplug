@@ -1,0 +1,11 @@
+{
+    "name": "nplug",
+    "version": "0.0.1",
+    "dependencies": {
+        "npm-package-arg": "6.1.0",
+        "pacote": "9.5.0"
+    },
+    "devDependencies": {
+        "typescript": "3.5.1"
+    }
+}
